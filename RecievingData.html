@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Recieving Data</title>
+</head>
+<body>
+<h3>Convert String to Object</h3>
+    <p id="demo"></p>
+<script>
+var myJSON='{"Name":"Frank" "Age":39,"City":"London"}';
+var myObj=JSON.parse(myJSON);
+document.getElementById("demo").innerHTML=myObj.age;
+</script>
+</body>
+</html>
