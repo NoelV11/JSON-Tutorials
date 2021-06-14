@@ -22,6 +22,10 @@ Website's interfacing abilities with the user.It also includes responsivness and
 
 Functionality of the Repository:-
 
+This code snippet instructs JSON to convert the data input into string and send it.I have provided 3 input fields,namely 'Name','Age' and 'Location'
+
+![image](https://user-images.githubusercontent.com/77625109/121892885-f1980080-cd3a-11eb-9a27-877194d6ed25.png)
+
 ->To run on your machine:-
 
 Download the codes (.html) pages from this repository
