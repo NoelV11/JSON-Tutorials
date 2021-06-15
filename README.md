@@ -37,7 +37,7 @@ This code snippet instructs JSON to convert the data inputs into string and send
 - Click on the each to file to view it's practical demonstration
 
 
-## Improvements:-
+## Improvements
 
 This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy
 
