@@ -12,7 +12,7 @@ It is dedicated to learners wanting to get started in JSON and back-end programm
 
 JSON Programming introduces the learner to the concept of data storage and transmission,when interacting with a website.It is usually broken down to:-
 
-- Data Collection from User (Forms,Surveys)
+- Data Collection from User (Forms and surveys)
 
 - Transmission of data to the backend
 
